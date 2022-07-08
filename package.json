@@ -4,7 +4,9 @@
   "version": "0.0.0",
   "license": "MIT",
   "packageManager": "yarn@3.2.1",
-  "dependencies": {},
+  "dependencies": {
+    "cross-fetch": "^3.1.5"
+  },
   "devDependencies": {
     "@babel/core": "^7.18.6",
     "@babel/preset-env": "^7.18.6",
