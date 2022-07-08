@@ -19,7 +19,7 @@ export interface FlagParams {
 /**
  * Generate the URL to a flag SVG from a given set of parameters.
  */
-export function generateFlagURL(options: FlagParams) {
+export function generateFlagURL(options?: FlagParams) {
   const url = new URL('https://flag-designer.appspot.com')
   const params = new URLSearchParams({
     d: randomNumber(0, 12).toString(),

@@ -5,11 +5,13 @@
     "baseUrl": "./",
     "declaration": true,
     "sourceMap": true,
-    "target": "es2016",
     "esModuleInterop": true,
     "forceConsistentCasingInFileNames": true,
     "strict": true,
     "skipLibCheck": true,
+    "module": "node16",
+    "target": "es2021",
+    "lib": ["es2021"],
     "moduleResolution": "node16"
   }
 }
