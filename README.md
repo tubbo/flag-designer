@@ -19,9 +19,17 @@ generateFlagURL() // => https://...
 Generate an image and download it:
 
 ```typescript
-import { generateFlagURL } from 'flag-generator/url'
+import { generateFlagImage } from 'flag-generator/image'
 
 await generateFlagImage() // => Blob { ... }
+```
+
+You can customize the generated URL/image the same way as the form:
+
+```typescript
+import { generateFlagURL } from 'flag-generator/url'
+
+generateFlagURL({ division: 1 }) // => https://.../?d=1&...
 ```
 
 For more information, check out the [docs][].
