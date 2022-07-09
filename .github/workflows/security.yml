@@ -4,6 +4,8 @@ on:
     types:
       - opened
       - synchronize
+    paths:
+      - .yarn/cache/*
 concurrency:
   group: ${{ github.ref }}
   cancel-in-progress: true
