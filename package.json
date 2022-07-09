@@ -1,7 +1,7 @@
 {
   "name": "flag-designer",
   "type": "module",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "license": "MIT",
   "packageManager": "yarn@3.2.1",
   "repository": "https://github.com/tubbo/flag-designer.git",
