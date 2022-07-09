@@ -1,4 +1,4 @@
-name: Security
+name: Packages
 on:
   pull_request:
     types:
