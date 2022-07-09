@@ -1,6 +1,6 @@
 # flag-designer
 
-An NPM package for generating SVG flags from [Flag Designer][].
+An NPM package for generating SVG flags from [Scrontch's Flag Designer][].
 
 ## Usage
 
@@ -26,5 +26,5 @@ await generateFlagImage() // => Blob { ... }
 
 For more information, check out the [docs][].
 
-[flag designer]: https://flag-designer.appspot.com/
+[scrontch's flag designer]: https://flag-designer.appspot.com/
 [docs]: https://tubbo.github.io/flag-generator

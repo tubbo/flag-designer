@@ -1,0 +1,3 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`generateFlagURL generates url for an svg flag 1`] = `"https://flag-designer.appspot.com/gwtflags/SvgFileService?d=1&c1=2&c2=3&c3=4&o=5&c4=6&s=7&c5=8"`;

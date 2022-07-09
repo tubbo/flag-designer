@@ -91,6 +91,12 @@
     },
     "setupFilesAfterEnv": [
       "jest-extended/all"
+    ],
+    "testPathIgnorePatterns": [
+      "<rootDir>/dist"
+    ],
+    "modulePathIgnorePatterns": [
+      "<rootDir>/dist"
     ]
   },
   "babel": {
