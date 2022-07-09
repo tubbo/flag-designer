@@ -1,5 +1,5 @@
 {
-  "name": "flag-generator",
+  "name": "flag-designer",
   "type": "module",
   "version": "0.0.0",
   "license": "MIT",
@@ -52,7 +52,8 @@
     "test": "node --experimental-vm-modules $(yarn bin jest)",
     "lint": "eslint .",
     "style": "prettier --check .",
-    "fmt": "prettier --write . && eslint . --fix"
+    "fmt": "prettier --write . && eslint . --fix",
+    "publish": "semantic-release"
   },
   "eslintConfig": {
     "parser": "@typescript-eslint/parser",

@@ -1,6 +1,6 @@
-# flag-generator
+# flag-designer
 
-An NPM package for generating SVG flags from [Flag Designer][]
+An NPM package for generating SVG flags from [Flag Designer][].
 
 ## Usage
 
@@ -16,15 +16,15 @@ import { generateFlagURL } from 'flag-generator/url'
 generateFlagURL() // => https://...
 ```
 
-Generate an entire image:
+Generate an image and download it:
 
 ```typescript
 import { generateFlagURL } from 'flag-generator/url'
 
-generateFlagImage() // => <Blob..>
+await generateFlagImage() // => Blob { ... }
 ```
 
-For more information, check out the docs at
-<https://tubbo.github.io/flag-generator>.
+For more information, check out the [docs][].
 
 [flag designer]: https://flag-designer.appspot.com/
+[docs]: https://tubbo.github.io/flag-generator

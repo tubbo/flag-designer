@@ -4414,9 +4414,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"flag-generator@workspace:.":
+"flag-designer@workspace:.":
   version: 0.0.0-use.local
-  resolution: "flag-generator@workspace:."
+  resolution: "flag-designer@workspace:."
   dependencies:
     "@babel/core": ^7.18.6
     "@babel/preset-env": ^7.18.6
