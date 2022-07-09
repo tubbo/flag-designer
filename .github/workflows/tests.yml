@@ -9,6 +9,9 @@ on:
       - next-major
       - '*.*.x'
       - '*.x'
+concurrency:
+  group: ${{ github.ref }}
+  cancel-in-progress: true
 jobs:
   test:
     runs-on: ubuntu-latest
