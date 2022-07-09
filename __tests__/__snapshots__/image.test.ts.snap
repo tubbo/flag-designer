@@ -1,6 +1,6 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`generateFlagImage 1`] = `
+exports[`generateFlagImage returns image data when successful 1`] = `
 Blob {
   Symbol(type): "image/svg+xml;charset=iso-8859-1",
   Symbol(buffer): Object {
