@@ -1,4 +1,3 @@
-import fetch from 'cross-fetch'
 import { generateFlagURL, type FlagParams } from './url.js'
 
 /**
