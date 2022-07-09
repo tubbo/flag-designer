@@ -83,6 +83,10 @@
     ]
   },
   "jest": {
+    "reporters": [
+      "default",
+      "github-actions"
+    ],
     "extensionsToTreatAsEsm": [
       ".ts",
       ".tsx"
