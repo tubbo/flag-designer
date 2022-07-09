@@ -18,5 +18,6 @@
     "entryPoints": ["index.ts"],
     "out": "docs",
     "emit": "both"
-  }
+  },
+  "exclude": ["**/*.test.ts", "dist/**/*"]
 }
