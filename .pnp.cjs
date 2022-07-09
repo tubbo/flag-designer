@@ -48,6 +48,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@typescript-eslint/eslint-plugin", "virtual:2b730a5859efcb25c946fa5ffb228ff31765d58fc73c04b05753075575d1589138fa9eb25d7e14c8aac4992bab79e7281e9b204cd0be1858f78a32e69f3d296c#npm:5.30.5"],\
             ["@typescript-eslint/parser", "virtual:2b730a5859efcb25c946fa5ffb228ff31765d58fc73c04b05753075575d1589138fa9eb25d7e14c8aac4992bab79e7281e9b204cd0be1858f78a32e69f3d296c#npm:5.30.5"],\
             ["babel-jest", "virtual:2b730a5859efcb25c946fa5ffb228ff31765d58fc73c04b05753075575d1589138fa9eb25d7e14c8aac4992bab79e7281e9b204cd0be1858f78a32e69f3d296c#npm:28.1.2"],\
+            ["conventional-changelog-conventionalcommits", "npm:5.0.0"],\
             ["cross-fetch", "npm:3.1.5"],\
             ["eslint", "npm:8.19.0"],\
             ["eslint-config-prettier", "virtual:2b730a5859efcb25c946fa5ffb228ff31765d58fc73c04b05753075575d1589138fa9eb25d7e14c8aac4992bab79e7281e9b204cd0be1858f78a32e69f3d296c#npm:8.5.0"],\
@@ -6360,6 +6361,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@typescript-eslint/eslint-plugin", "virtual:2b730a5859efcb25c946fa5ffb228ff31765d58fc73c04b05753075575d1589138fa9eb25d7e14c8aac4992bab79e7281e9b204cd0be1858f78a32e69f3d296c#npm:5.30.5"],\
             ["@typescript-eslint/parser", "virtual:2b730a5859efcb25c946fa5ffb228ff31765d58fc73c04b05753075575d1589138fa9eb25d7e14c8aac4992bab79e7281e9b204cd0be1858f78a32e69f3d296c#npm:5.30.5"],\
             ["babel-jest", "virtual:2b730a5859efcb25c946fa5ffb228ff31765d58fc73c04b05753075575d1589138fa9eb25d7e14c8aac4992bab79e7281e9b204cd0be1858f78a32e69f3d296c#npm:28.1.2"],\
+            ["conventional-changelog-conventionalcommits", "npm:5.0.0"],\
             ["cross-fetch", "npm:3.1.5"],\
             ["eslint", "npm:8.19.0"],\
             ["eslint-config-prettier", "virtual:2b730a5859efcb25c946fa5ffb228ff31765d58fc73c04b05753075575d1589138fa9eb25d7e14c8aac4992bab79e7281e9b204cd0be1858f78a32e69f3d296c#npm:8.5.0"],\
