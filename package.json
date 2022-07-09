@@ -185,7 +185,7 @@
     "extends": "@commitlint/config-conventional"
   },
   "engines": {
-    "node": ">= 16",
-    "yarn": ">= 2"
+    "node": ">= 18",
+    "yarn": ">= 3"
   }
 }
