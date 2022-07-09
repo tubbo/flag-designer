@@ -47,7 +47,7 @@
   },
   "scripts": {
     "prepare": "husky install",
-    "build": "tsc",
+    "build": "typedoc",
     "types": "tsc --noEmit",
     "test": "node --experimental-vm-modules $(yarn bin jest)",
     "lint": "eslint .",
