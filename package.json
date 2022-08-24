@@ -3,7 +3,7 @@
   "type": "module",
   "version": "1.0.2",
   "license": "MIT",
-  "packageManager": "yarn@3.2.2",
+  "packageManager": "yarn@3.2.3",
   "repository": "https://github.com/tubbo/flag-designer.git",
   "bugs": "https://github.com/tubbo/flag-designer/issues",
   "dependencies": {
