@@ -60,7 +60,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["prettier", "npm:2.7.1"],\
             ["semantic-release", "npm:19.0.5"],\
             ["typedoc", "virtual:2b730a5859efcb25c946fa5ffb228ff31765d58fc73c04b05753075575d1589138fa9eb25d7e14c8aac4992bab79e7281e9b204cd0be1858f78a32e69f3d296c#npm:0.23.10"],\
-            ["typescript", "patch:typescript@npm%3A4.7.4#~builtin<compat/typescript>::version=4.7.4&hash=a1c5e5"]\
+            ["typescript", "patch:typescript@npm%3A4.8.2#~builtin<compat/typescript>::version=4.8.2&hash=a1c5e5"]\
           ],\
           "linkType": "SOFT"\
         }]\
@@ -4593,7 +4593,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["regexpp", "npm:3.2.0"],\
             ["semver", "npm:7.3.7"],\
             ["tsutils", "virtual:4795991039431d541e43701a13004cf1a1ef253d200ece382e3c5f3bf74f1052a5f66a9d1a445cde39ebbfcc5f6b2bfad945e290dbf7e49ab239bebb10095f1f#npm:3.21.0"],\
-            ["typescript", "patch:typescript@npm%3A4.7.4#~builtin<compat/typescript>::version=4.7.4&hash=a1c5e5"]\
+            ["typescript", "patch:typescript@npm%3A4.8.2#~builtin<compat/typescript>::version=4.8.2&hash=a1c5e5"]\
           ],\
           "packagePeers": [\
             "@types/eslint",\
@@ -4625,7 +4625,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@typescript-eslint/typescript-estree", "virtual:57d57dcd2ebe3349fed006ea38334a4dc950a753e168a1e5d7ae4377ef2452e4e944b0ff548600d80b4007ef9ee2901cc6c07081eac65bc26f754232f274cc1f#npm:5.35.1"],\
             ["debug", "virtual:1fc88eea444874c16c21b18c340f7d942721495489588b4660a54541f41334b5725af31b9e5d7f9317557c08eab5b2be076cb4f0efc445b9beac9a537435034e#npm:4.3.4"],\
             ["eslint", "npm:8.22.0"],\
-            ["typescript", "patch:typescript@npm%3A4.7.4#~builtin<compat/typescript>::version=4.7.4&hash=a1c5e5"]\
+            ["typescript", "patch:typescript@npm%3A4.8.2#~builtin<compat/typescript>::version=4.8.2&hash=a1c5e5"]\
           ],\
           "packagePeers": [\
             "@types/eslint",\
@@ -4674,7 +4674,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["debug", "virtual:1fc88eea444874c16c21b18c340f7d942721495489588b4660a54541f41334b5725af31b9e5d7f9317557c08eab5b2be076cb4f0efc445b9beac9a537435034e#npm:4.3.4"],\
             ["eslint", "npm:8.22.0"],\
             ["tsutils", "virtual:4795991039431d541e43701a13004cf1a1ef253d200ece382e3c5f3bf74f1052a5f66a9d1a445cde39ebbfcc5f6b2bfad945e290dbf7e49ab239bebb10095f1f#npm:3.21.0"],\
-            ["typescript", "patch:typescript@npm%3A4.7.4#~builtin<compat/typescript>::version=4.7.4&hash=a1c5e5"]\
+            ["typescript", "patch:typescript@npm%3A4.8.2#~builtin<compat/typescript>::version=4.8.2&hash=a1c5e5"]\
           ],\
           "packagePeers": [\
             "@types/eslint",\
@@ -4748,7 +4748,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["is-glob", "npm:4.0.3"],\
             ["semver", "npm:7.3.7"],\
             ["tsutils", "virtual:4795991039431d541e43701a13004cf1a1ef253d200ece382e3c5f3bf74f1052a5f66a9d1a445cde39ebbfcc5f6b2bfad945e290dbf7e49ab239bebb10095f1f#npm:3.21.0"],\
-            ["typescript", "patch:typescript@npm%3A4.7.4#~builtin<compat/typescript>::version=4.7.4&hash=a1c5e5"]\
+            ["typescript", "patch:typescript@npm%3A4.8.2#~builtin<compat/typescript>::version=4.8.2&hash=a1c5e5"]\
           ],\
           "packagePeers": [\
             "@types/typescript",\
@@ -7035,7 +7035,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["prettier", "npm:2.7.1"],\
             ["semantic-release", "npm:19.0.5"],\
             ["typedoc", "virtual:2b730a5859efcb25c946fa5ffb228ff31765d58fc73c04b05753075575d1589138fa9eb25d7e14c8aac4992bab79e7281e9b204cd0be1858f78a32e69f3d296c#npm:0.23.10"],\
-            ["typescript", "patch:typescript@npm%3A4.7.4#~builtin<compat/typescript>::version=4.7.4&hash=a1c5e5"]\
+            ["typescript", "patch:typescript@npm%3A4.8.2#~builtin<compat/typescript>::version=4.8.2&hash=a1c5e5"]\
           ],\
           "linkType": "SOFT"\
         }]\
@@ -11689,7 +11689,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["tsutils", "virtual:4795991039431d541e43701a13004cf1a1ef253d200ece382e3c5f3bf74f1052a5f66a9d1a445cde39ebbfcc5f6b2bfad945e290dbf7e49ab239bebb10095f1f#npm:3.21.0"],\
             ["@types/typescript", null],\
             ["tslib", "npm:1.14.1"],\
-            ["typescript", "patch:typescript@npm%3A4.7.4#~builtin<compat/typescript>::version=4.7.4&hash=a1c5e5"]\
+            ["typescript", "patch:typescript@npm%3A4.8.2#~builtin<compat/typescript>::version=4.8.2&hash=a1c5e5"]\
           ],\
           "packagePeers": [\
             "@types/typescript",\
@@ -11799,7 +11799,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["marked", "npm:4.0.18"],\
             ["minimatch", "npm:5.1.0"],\
             ["shiki", "npm:0.10.1"],\
-            ["typescript", "patch:typescript@npm%3A4.7.4#~builtin<compat/typescript>::version=4.7.4&hash=a1c5e5"]\
+            ["typescript", "patch:typescript@npm%3A4.8.2#~builtin<compat/typescript>::version=4.8.2&hash=a1c5e5"]\
           ],\
           "packagePeers": [\
             "@types/typescript",\
@@ -11813,6 +11813,13 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./.yarn/cache/typescript-patch-56273a7c66-9096d8f6c1.zip/node_modules/typescript/",\
           "packageDependencies": [\
             ["typescript", "patch:typescript@npm%3A4.7.4#~builtin<compat/typescript>::version=4.7.4&hash=a1c5e5"]\
+          ],\
+          "linkType": "HARD"\
+        }],\
+        ["patch:typescript@npm%3A4.8.2#~builtin<compat/typescript>::version=4.8.2&hash=a1c5e5", {\
+          "packageLocation": "./.yarn/cache/typescript-patch-d6cb78dce7-5cb0f02f41.zip/node_modules/typescript/",\
+          "packageDependencies": [\
+            ["typescript", "patch:typescript@npm%3A4.8.2#~builtin<compat/typescript>::version=4.8.2&hash=a1c5e5"]\
           ],\
           "linkType": "HARD"\
         }]\
