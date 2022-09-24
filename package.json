@@ -21,7 +21,7 @@
     "@types/babel__preset-env": "7.9.2",
     "@types/eslint": "8.4.6",
     "@types/jest": "28.1.8",
-    "@types/prettier": "2.7.0",
+    "@types/prettier": "2.7.1",
     "@typescript-eslint/eslint-plugin": "5.38.0",
     "@typescript-eslint/parser": "5.38.0",
     "babel-jest": "28.1.3",
