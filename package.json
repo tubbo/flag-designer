@@ -19,7 +19,7 @@
     "@semantic-release/git": "10.0.1",
     "@types/babel__core": "7.1.19",
     "@types/babel__preset-env": "7.9.2",
-    "@types/eslint": "8.4.8",
+    "@types/eslint": "8.4.9",
     "@types/jest": "28.1.8",
     "@types/prettier": "2.7.1",
     "@typescript-eslint/eslint-plugin": "5.41.0",
