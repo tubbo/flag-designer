@@ -1,10 +1,21 @@
 {
   "$schema": "https://docs.renovatebot.com/renovate-schema.json",
-  "extends": ["config:js-lib"],
+  "extends": ["config:js-lib", "group:allNonMajor"],
+  "platformAutomerge": true,
+  "platformCommit": true,
+  "prCreation": "not-pending",
+  "automerge": true,
   "packageRules": [
     {
-      "matchUpdateTypes": ["minor", "patch", "pin", "digest"],
-      "automerge": true
+      "description": "Prevent automatically merging major version upgrades",
+      "matchUpdateTypes": ["major"],
+      "automerge": false
+    },
+    {
+      "description": "Wait until NPM unpublish window expires",
+      "matchDatasources": ["npm"],
+      "stabilityDays": 3,
+      "internalChecksFilter": "strict"
     }
   ]
 }
