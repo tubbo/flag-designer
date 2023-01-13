@@ -50,7 +50,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["eslint-plugin-jest", "virtual:2b730a5859efcb25c946fa5ffb228ff31765d58fc73c04b05753075575d1589138fa9eb25d7e14c8aac4992bab79e7281e9b204cd0be1858f78a32e69f3d296c#npm:26.9.0"],\
             ["husky", "npm:8.0.3"],\
             ["jest", "virtual:2b730a5859efcb25c946fa5ffb228ff31765d58fc73c04b05753075575d1589138fa9eb25d7e14c8aac4992bab79e7281e9b204cd0be1858f78a32e69f3d296c#npm:28.1.3"],\
-            ["jest-extended", "virtual:2b730a5859efcb25c946fa5ffb228ff31765d58fc73c04b05753075575d1589138fa9eb25d7e14c8aac4992bab79e7281e9b204cd0be1858f78a32e69f3d296c#npm:3.2.2"],\
+            ["jest-extended", "virtual:2b730a5859efcb25c946fa5ffb228ff31765d58fc73c04b05753075575d1589138fa9eb25d7e14c8aac4992bab79e7281e9b204cd0be1858f78a32e69f3d296c#npm:3.2.3"],\
             ["lint-staged", "npm:13.1.0"],\
             ["prettier", "npm:2.8.2"],\
             ["semantic-release", "npm:19.0.5"],\
@@ -7265,7 +7265,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["eslint-plugin-jest", "virtual:2b730a5859efcb25c946fa5ffb228ff31765d58fc73c04b05753075575d1589138fa9eb25d7e14c8aac4992bab79e7281e9b204cd0be1858f78a32e69f3d296c#npm:26.9.0"],\
             ["husky", "npm:8.0.3"],\
             ["jest", "virtual:2b730a5859efcb25c946fa5ffb228ff31765d58fc73c04b05753075575d1589138fa9eb25d7e14c8aac4992bab79e7281e9b204cd0be1858f78a32e69f3d296c#npm:28.1.3"],\
-            ["jest-extended", "virtual:2b730a5859efcb25c946fa5ffb228ff31765d58fc73c04b05753075575d1589138fa9eb25d7e14c8aac4992bab79e7281e9b204cd0be1858f78a32e69f3d296c#npm:3.2.2"],\
+            ["jest-extended", "virtual:2b730a5859efcb25c946fa5ffb228ff31765d58fc73c04b05753075575d1589138fa9eb25d7e14c8aac4992bab79e7281e9b204cd0be1858f78a32e69f3d296c#npm:3.2.3"],\
             ["lint-staged", "npm:13.1.0"],\
             ["prettier", "npm:2.8.2"],\
             ["semantic-release", "npm:19.0.5"],\
@@ -8405,17 +8405,17 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["jest-extended", [\
-        ["npm:3.2.2", {\
-          "packageLocation": "./.yarn/cache/jest-extended-npm-3.2.2-5ec49e2e7a-7fea5f7427.zip/node_modules/jest-extended/",\
+        ["npm:3.2.3", {\
+          "packageLocation": "./.yarn/cache/jest-extended-npm-3.2.3-2ca4a65612-af837ca22e.zip/node_modules/jest-extended/",\
           "packageDependencies": [\
-            ["jest-extended", "npm:3.2.2"]\
+            ["jest-extended", "npm:3.2.3"]\
           ],\
           "linkType": "SOFT"\
         }],\
-        ["virtual:2b730a5859efcb25c946fa5ffb228ff31765d58fc73c04b05753075575d1589138fa9eb25d7e14c8aac4992bab79e7281e9b204cd0be1858f78a32e69f3d296c#npm:3.2.2", {\
-          "packageLocation": "./.yarn/__virtual__/jest-extended-virtual-f327f30000/0/cache/jest-extended-npm-3.2.2-5ec49e2e7a-7fea5f7427.zip/node_modules/jest-extended/",\
+        ["virtual:2b730a5859efcb25c946fa5ffb228ff31765d58fc73c04b05753075575d1589138fa9eb25d7e14c8aac4992bab79e7281e9b204cd0be1858f78a32e69f3d296c#npm:3.2.3", {\
+          "packageLocation": "./.yarn/__virtual__/jest-extended-virtual-08bafd142f/0/cache/jest-extended-npm-3.2.3-2ca4a65612-af837ca22e.zip/node_modules/jest-extended/",\
           "packageDependencies": [\
-            ["jest-extended", "virtual:2b730a5859efcb25c946fa5ffb228ff31765d58fc73c04b05753075575d1589138fa9eb25d7e14c8aac4992bab79e7281e9b204cd0be1858f78a32e69f3d296c#npm:3.2.2"],\
+            ["jest-extended", "virtual:2b730a5859efcb25c946fa5ffb228ff31765d58fc73c04b05753075575d1589138fa9eb25d7e14c8aac4992bab79e7281e9b204cd0be1858f78a32e69f3d296c#npm:3.2.3"],\
             ["@types/jest", "npm:28.1.8"],\
             ["jest", "virtual:2b730a5859efcb25c946fa5ffb228ff31765d58fc73c04b05753075575d1589138fa9eb25d7e14c8aac4992bab79e7281e9b204cd0be1858f78a32e69f3d296c#npm:28.1.3"],\
             ["jest-diff", "npm:29.0.1"],\
