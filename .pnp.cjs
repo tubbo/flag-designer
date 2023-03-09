@@ -46,7 +46,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["conventional-changelog-conventionalcommits", "npm:5.0.0"],\
             ["cross-fetch", "npm:3.1.5"],\
             ["eslint", "npm:8.35.0"],\
-            ["eslint-config-prettier", "virtual:2b730a5859efcb25c946fa5ffb228ff31765d58fc73c04b05753075575d1589138fa9eb25d7e14c8aac4992bab79e7281e9b204cd0be1858f78a32e69f3d296c#npm:8.6.0"],\
+            ["eslint-config-prettier", "virtual:2b730a5859efcb25c946fa5ffb228ff31765d58fc73c04b05753075575d1589138fa9eb25d7e14c8aac4992bab79e7281e9b204cd0be1858f78a32e69f3d296c#npm:8.7.0"],\
             ["eslint-plugin-jest", "virtual:2b730a5859efcb25c946fa5ffb228ff31765d58fc73c04b05753075575d1589138fa9eb25d7e14c8aac4992bab79e7281e9b204cd0be1858f78a32e69f3d296c#npm:26.9.0"],\
             ["husky", "npm:8.0.3"],\
             ["jest", "virtual:2b730a5859efcb25c946fa5ffb228ff31765d58fc73c04b05753075575d1589138fa9eb25d7e14c8aac4992bab79e7281e9b204cd0be1858f78a32e69f3d296c#npm:28.1.3"],\
@@ -6982,17 +6982,17 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["eslint-config-prettier", [\
-        ["npm:8.6.0", {\
-          "packageLocation": "./.yarn/cache/eslint-config-prettier-npm-8.6.0-00192c9409-ff0d0dfc83.zip/node_modules/eslint-config-prettier/",\
+        ["npm:8.7.0", {\
+          "packageLocation": "./.yarn/cache/eslint-config-prettier-npm-8.7.0-9cfc221aac-b05bc7f229.zip/node_modules/eslint-config-prettier/",\
           "packageDependencies": [\
-            ["eslint-config-prettier", "npm:8.6.0"]\
+            ["eslint-config-prettier", "npm:8.7.0"]\
           ],\
           "linkType": "SOFT"\
         }],\
-        ["virtual:2b730a5859efcb25c946fa5ffb228ff31765d58fc73c04b05753075575d1589138fa9eb25d7e14c8aac4992bab79e7281e9b204cd0be1858f78a32e69f3d296c#npm:8.6.0", {\
-          "packageLocation": "./.yarn/__virtual__/eslint-config-prettier-virtual-1329b43738/0/cache/eslint-config-prettier-npm-8.6.0-00192c9409-ff0d0dfc83.zip/node_modules/eslint-config-prettier/",\
+        ["virtual:2b730a5859efcb25c946fa5ffb228ff31765d58fc73c04b05753075575d1589138fa9eb25d7e14c8aac4992bab79e7281e9b204cd0be1858f78a32e69f3d296c#npm:8.7.0", {\
+          "packageLocation": "./.yarn/__virtual__/eslint-config-prettier-virtual-af05b2a776/0/cache/eslint-config-prettier-npm-8.7.0-9cfc221aac-b05bc7f229.zip/node_modules/eslint-config-prettier/",\
           "packageDependencies": [\
-            ["eslint-config-prettier", "virtual:2b730a5859efcb25c946fa5ffb228ff31765d58fc73c04b05753075575d1589138fa9eb25d7e14c8aac4992bab79e7281e9b204cd0be1858f78a32e69f3d296c#npm:8.6.0"],\
+            ["eslint-config-prettier", "virtual:2b730a5859efcb25c946fa5ffb228ff31765d58fc73c04b05753075575d1589138fa9eb25d7e14c8aac4992bab79e7281e9b204cd0be1858f78a32e69f3d296c#npm:8.7.0"],\
             ["@types/eslint", "npm:8.21.1"],\
             ["eslint", "npm:8.35.0"]\
           ],\
@@ -7399,7 +7399,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["conventional-changelog-conventionalcommits", "npm:5.0.0"],\
             ["cross-fetch", "npm:3.1.5"],\
             ["eslint", "npm:8.35.0"],\
-            ["eslint-config-prettier", "virtual:2b730a5859efcb25c946fa5ffb228ff31765d58fc73c04b05753075575d1589138fa9eb25d7e14c8aac4992bab79e7281e9b204cd0be1858f78a32e69f3d296c#npm:8.6.0"],\
+            ["eslint-config-prettier", "virtual:2b730a5859efcb25c946fa5ffb228ff31765d58fc73c04b05753075575d1589138fa9eb25d7e14c8aac4992bab79e7281e9b204cd0be1858f78a32e69f3d296c#npm:8.7.0"],\
             ["eslint-plugin-jest", "virtual:2b730a5859efcb25c946fa5ffb228ff31765d58fc73c04b05753075575d1589138fa9eb25d7e14c8aac4992bab79e7281e9b204cd0be1858f78a32e69f3d296c#npm:26.9.0"],\
             ["husky", "npm:8.0.3"],\
             ["jest", "virtual:2b730a5859efcb25c946fa5ffb228ff31765d58fc73c04b05753075575d1589138fa9eb25d7e14c8aac4992bab79e7281e9b204cd0be1858f78a32e69f3d296c#npm:28.1.3"],\
