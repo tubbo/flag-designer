@@ -15,7 +15,7 @@
     "@babel/preset-typescript": "7.21.0",
     "@commitlint/cli": "17.5.0",
     "@commitlint/config-conventional": "17.4.4",
-    "@semantic-release/changelog": "6.0.2",
+    "@semantic-release/changelog": "6.0.3",
     "@semantic-release/git": "10.0.1",
     "@types/babel__core": "7.20.0",
     "@types/babel__preset-env": "7.9.2",
@@ -33,7 +33,7 @@
     "jest": "28.1.3",
     "jest-extended": "3.2.4",
     "lint-staged": "13.2.0",
-    "prettier": "2.8.6",
+    "prettier": "2.8.7",
     "semantic-release": "19.0.5",
     "typedoc": "0.23.28",
     "typescript": "4.9.5"
