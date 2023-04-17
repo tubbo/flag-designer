@@ -31,8 +31,8 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@babel/core", "npm:7.21.4"],\
             ["@babel/preset-env", "virtual:2b730a5859efcb25c946fa5ffb228ff31765d58fc73c04b05753075575d1589138fa9eb25d7e14c8aac4992bab79e7281e9b204cd0be1858f78a32e69f3d296c#npm:7.21.4"],\
             ["@babel/preset-typescript", "virtual:2b730a5859efcb25c946fa5ffb228ff31765d58fc73c04b05753075575d1589138fa9eb25d7e14c8aac4992bab79e7281e9b204cd0be1858f78a32e69f3d296c#npm:7.21.4"],\
-            ["@commitlint/cli", "npm:17.6.0"],\
-            ["@commitlint/config-conventional", "npm:17.6.0"],\
+            ["@commitlint/cli", "npm:17.6.1"],\
+            ["@commitlint/config-conventional", "npm:17.6.1"],\
             ["@semantic-release/changelog", "virtual:2b730a5859efcb25c946fa5ffb228ff31765d58fc73c04b05753075575d1589138fa9eb25d7e14c8aac4992bab79e7281e9b204cd0be1858f78a32e69f3d296c#npm:6.0.3"],\
             ["@semantic-release/git", "virtual:2b730a5859efcb25c946fa5ffb228ff31765d58fc73c04b05753075575d1589138fa9eb25d7e14c8aac4992bab79e7281e9b204cd0be1858f78a32e69f3d296c#npm:10.0.1"],\
             ["@types/babel__core", "npm:7.20.0"],\
@@ -3272,10 +3272,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["@commitlint/cli", [\
-        ["npm:17.6.0", {\
-          "packageLocation": "./.yarn/cache/@commitlint-cli-npm-17.6.0-ac6e372505-3b42aff92b.zip/node_modules/@commitlint/cli/",\
+        ["npm:17.6.1", {\
+          "packageLocation": "./.yarn/cache/@commitlint-cli-npm-17.6.1-c73335136c-ec559e1f52.zip/node_modules/@commitlint/cli/",\
           "packageDependencies": [\
-            ["@commitlint/cli", "npm:17.6.0"],\
+            ["@commitlint/cli", "npm:17.6.1"],\
             ["@commitlint/format", "npm:17.4.4"],\
             ["@commitlint/lint", "npm:17.6.1"],\
             ["@commitlint/load", "npm:17.5.0"],\
@@ -3291,10 +3291,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["@commitlint/config-conventional", [\
-        ["npm:17.6.0", {\
-          "packageLocation": "./.yarn/cache/@commitlint-config-conventional-npm-17.6.0-06ded33c5c-ac62e3904d.zip/node_modules/@commitlint/config-conventional/",\
+        ["npm:17.6.1", {\
+          "packageLocation": "./.yarn/cache/@commitlint-config-conventional-npm-17.6.1-98d2a3c4e0-a854bae11f.zip/node_modules/@commitlint/config-conventional/",\
           "packageDependencies": [\
-            ["@commitlint/config-conventional", "npm:17.6.0"],\
+            ["@commitlint/config-conventional", "npm:17.6.1"],\
             ["conventional-changelog-conventionalcommits", "npm:5.0.0"]\
           ],\
           "linkType": "HARD"\
@@ -7373,8 +7373,8 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@babel/core", "npm:7.21.4"],\
             ["@babel/preset-env", "virtual:2b730a5859efcb25c946fa5ffb228ff31765d58fc73c04b05753075575d1589138fa9eb25d7e14c8aac4992bab79e7281e9b204cd0be1858f78a32e69f3d296c#npm:7.21.4"],\
             ["@babel/preset-typescript", "virtual:2b730a5859efcb25c946fa5ffb228ff31765d58fc73c04b05753075575d1589138fa9eb25d7e14c8aac4992bab79e7281e9b204cd0be1858f78a32e69f3d296c#npm:7.21.4"],\
-            ["@commitlint/cli", "npm:17.6.0"],\
-            ["@commitlint/config-conventional", "npm:17.6.0"],\
+            ["@commitlint/cli", "npm:17.6.1"],\
+            ["@commitlint/config-conventional", "npm:17.6.1"],\
             ["@semantic-release/changelog", "virtual:2b730a5859efcb25c946fa5ffb228ff31765d58fc73c04b05753075575d1589138fa9eb25d7e14c8aac4992bab79e7281e9b204cd0be1858f78a32e69f3d296c#npm:6.0.3"],\
             ["@semantic-release/git", "virtual:2b730a5859efcb25c946fa5ffb228ff31765d58fc73c04b05753075575d1589138fa9eb25d7e14c8aac4992bab79e7281e9b204cd0be1858f78a32e69f3d296c#npm:10.0.1"],\
             ["@types/babel__core", "npm:7.20.0"],\
