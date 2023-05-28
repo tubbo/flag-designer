@@ -17,7 +17,7 @@
     "@commitlint/config-conventional": "17.6.3",
     "@semantic-release/changelog": "6.0.3",
     "@semantic-release/git": "10.0.1",
-    "@types/babel__core": "7.20.0",
+    "@types/babel__core": "7.20.1",
     "@types/babel__preset-env": "7.9.2",
     "@types/eslint": "8.40.0",
     "@types/jest": "28.1.8",
